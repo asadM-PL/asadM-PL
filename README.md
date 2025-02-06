@@ -52,7 +52,3 @@ I also focus on app performance optimization, ensuring smooth interactions, mini
 ## Let's Connect
 I’m always open to new opportunities and collaborations. Feel free to get in touch!
 - [LinkedIn](https://www.linkedin.com/in/asadmahmood/)
-
-## Fun Facts
-- When I’m not coding, I love exploring emerging technologies like **AI** and **blockchain**.
-- In my free time, I enjoy playing video games and exploring the overlap between software development and game development.
